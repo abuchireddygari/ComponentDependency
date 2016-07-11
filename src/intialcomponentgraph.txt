@@ -1,0 +1,4 @@
+component1:component2,component3,component4
+component2:component5
+component3:component6,component7
+component7:component4
